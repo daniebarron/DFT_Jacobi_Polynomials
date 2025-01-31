@@ -1,3 +1,5 @@
+# **1D Density Functional Theory (DFT) Solver**
+
 ## Overview
 
 This repository contains some of the code I wrote for the development of a one-dimensional Density Functional Theory (DFT) engine. The solver is designed to compute the electron density and observables of the many-electron 1D infinite potential well using a Jacobi polynomial basis within a self-consistent cycle. The code also includes a multi-grid Poisson solver to compute the Hartree potential.
